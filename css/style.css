@@ -62,6 +62,16 @@ h1 {
   cursor: pointer;
   margin-top: 20px;
 }
+#supriseme {
+  padding: 12px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
 
 #playBtn:hover {
   background-color: #45a049;
